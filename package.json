@@ -1,0 +1,22 @@
+{
+  "name": "@hecom/initialization",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Application Initialization Management",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint . --ext .ts,.tsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hecom-rn/Initialization.git"
+  },
+  "author": "Xiaosong Gao",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "eslint-plugin-automatic": "latest"
+  }
+}
